@@ -7,13 +7,13 @@ title: Refactoring
 Nesta apresentação falei um pouco sobre o livro de Martin Fowler, Refactoring.
 Foi uma pequena revisão do livro onde abordei os conceitos de refatoração e as algumas técnicas e práticas para aplicarmos no nosso código.
 
+<!-- more -->
+
 ### O que é Refatorar?
 
 > “Processo de alterar e melhorar o código de um software de maneira que seu comportamento atual não seja alterado”
 
 > “Uma maneira disciplinada de limpar código que minimiza as chances de introduzirmos bugs”
-
-<!-- more -->
 
 ### Mas porque devemos Refatorar?
 
