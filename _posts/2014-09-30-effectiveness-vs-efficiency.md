@@ -39,3 +39,6 @@ To conclude, I took to myself as a personal motto, something that we seek to fol
 
 Bruno.
 
+
+PS. Found this [video] (https://www.youtube.com/watch?v=hafqZZci4e8) that is a nice illustration of we were talking about.
+
